@@ -26,3 +26,7 @@ This project analyzes customer churn patterns and identifies key factors affecti
 - Dashboard development in Power BI
 
 ## Dashboard Preview
+
+![Dashboard](IMG-20260415-WA0017.jpg)
+![Dashboard](IMG-20260415-WA0018.jpg)
+![Dashboard](IMG-20260415-WA0019.jpg)
