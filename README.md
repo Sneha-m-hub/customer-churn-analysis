@@ -1,29 +1,31 @@
-# Customer Churn Analysis
+l# Customer Churn Analysis
 
 ## Project Overview
-This project analyzes customer churn patterns and identifies key factors affecting customer retention using Python, SQL, and Power BI.
+This project analyzes customer data to identify patterns and factors contributing to customer churn using Python, SQL, and Power BI.
 
 ## Objectives
 - Identify customers likely to churn
-- Analyze customer behavior and trends
-- Support business decisions for improving retention
+- Analyze customer behavior and segmentation
+- Understand key factors affecting churn
+- Support business decisions to improve customer retention
 
 ## Key Insights
-- High churn rate observed indicating retention challenges
-- Identified high-risk customer segments impacting retention
-- Customer behavior significantly influences churn and revenue
+- Identified high-risk customer segments based on usage and behavior
+- Analyzed factors influencing churn such as contract type and tenure
+- Provided insights to improve customer retention strategies
+- Highlighted segments requiring targeted actions
 
 ## Tools Used
-- Python
-- SQL
-- Power BI
-- Excel
+- Python (EDA, data analysis)
+- SQL (data querying)
+- Power BI (dashboard visualization)
 
 ## Process
-- Data cleaning and preprocessing
-- Exploratory Data Analysis (EDA)
-- Customer segmentation
-- Dashboard development in Power BI
+- Collected and cleaned customer dataset
+- Performed exploratory data analysis (EDA) using Python
+- Queried and analyzed data using SQL
+- Built a Logistic Regression model to predict churn
+- Developed Power BI dashboards for churn insights and segmentation
 
 ## Dashboard Preview
 
